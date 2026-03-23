@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 💻 I’m currently working on:  <br>Building full-stack applications using Java, Spring Boot, and React, including real-world projects like Bank Management Systems.<br><br>🤝 I’m looking to collaborate on:  <br>Open-source projects and Java-based backend or full-stack applications.<br><br>🛠️ I’m looking for help with:  <br>Advanced DSA, system design, and improving backend scalability.<br><br>🌱 I’m currently learning:  <br>Java Full Stack Development (Spring Boot, REST APIs, React) and Data Structures & Algorithms.<br><br>💬 Ask me about:  <br>Java, OOP concepts, REST APIs, React basics, and problem-solving approaches.<br><br>⚡ Fun fact:  <br>I believe in learning by building — I prefer practical implementation over just theory.
 
 
