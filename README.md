@@ -140,5 +140,5 @@ Passionate about building scalable web applications and solving real-world probl
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rajnish0504&icon=5&color=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajnish0504&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
