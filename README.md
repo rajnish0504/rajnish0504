@@ -142,4 +142,3 @@ Passionate about building scalable web applications and solving real-world probl
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=rajnish0504&icon=5&color=6">
 </p>
-```
