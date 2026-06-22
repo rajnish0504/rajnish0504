@@ -1,4 +1,4 @@
-```md
+
 # Hi 👋, I'm Rajnish Singh Chouhan
 
 <h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React | MySQL</h3>
