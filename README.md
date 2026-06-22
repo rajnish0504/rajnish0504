@@ -99,7 +99,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 # 📌 Featured Projects
 
-### 🏦 Bank Management System
+### 🏦 Education Loan Management System
 - Spring Boot, Hibernate, MySQL
 - Account Management
 - Transaction Handling
