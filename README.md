@@ -140,5 +140,5 @@ Passionate about building scalable web applications and solving real-world probl
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajnish0504&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
